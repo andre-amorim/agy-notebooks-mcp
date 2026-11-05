@@ -1,6 +1,6 @@
 # Binaries
-bin/
-agy-notebooks-mcp
+/bin/
+/agy-notebooks-mcp
 result
 result-*
 
