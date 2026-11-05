@@ -1,0 +1,15 @@
+# Binaries
+bin/
+agy-notebooks-mcp
+result
+result-*
+
+# Token and cache files
+token.json
+*.token
+.cache/
+
+# OS and Editor
+.DS_Store
+*.swp
+*.bak
